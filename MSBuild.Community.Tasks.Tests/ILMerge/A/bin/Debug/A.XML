@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>A</name>
+    </assembly>
+    <members>
+        <member name="T:MSBuild.Community.Tasks.Tests.ILMerging.ClassA1">
+            <summary>
+            Public test class for ILMerge.
+            </summary>
+        </member>
+        <member name="T:MSBuild.Community.Tasks.Tests.ILMerging.ClassA2">
+            <summary>
+            Internal test class for ILMerge.
+            </summary>
+        </member>
+        <member name="T:MSBuild.Community.Tasks.Tests.ILMerging.ClassAB">
+            <summary>
+            Public test class for ILMerge.
+            </summary>
+        </member>
+    </members>
+</doc>

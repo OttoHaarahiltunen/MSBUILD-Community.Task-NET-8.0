@@ -1,0 +1,16 @@
+D:\koodit\msbuildtasks\Source\MSBuild.Community.Tasks\obj\Debug\net8.0\MSBuild.Community.Tasks.csproj.AssemblyReference.cache
+D:\koodit\msbuildtasks\Source\MSBuild.Community.Tasks\obj\Debug\net8.0\MSBuild.Community.Tasks.Properties.Resources.resources
+D:\koodit\msbuildtasks\Source\MSBuild.Community.Tasks\obj\Debug\net8.0\MSBuild.Community.Tasks.csproj.GenerateResource.cache
+D:\koodit\msbuildtasks\Source\MSBuild.Community.Tasks\obj\Debug\net8.0\MSBuild.Community.Tasks.GeneratedMSBuildEditorConfig.editorconfig
+D:\koodit\msbuildtasks\Source\MSBuild.Community.Tasks\obj\Debug\net8.0\MSBuild.Community.Tasks.csproj.CoreCompileInputs.cache
+D:\koodit\msbuildtasks\Source\MSBuild.Community.Tasks\obj\Debug\net8.0\MSBuild.Community.Tasks.sourcelink.json
+D:\koodit\msbuildtasks\Source\MSBuild.Community.Tasks\bin\Debug\net8.0\MSBuild.Community.Tasks.Targets
+D:\koodit\msbuildtasks\Source\MSBuild.Community.Tasks\bin\Debug\net8.0\NUnitReport.xsl
+D:\koodit\msbuildtasks\Source\MSBuild.Community.Tasks\bin\Debug\net8.0\MSBuild.Community.Tasks.deps.json
+D:\koodit\msbuildtasks\Source\MSBuild.Community.Tasks\bin\Debug\net8.0\MSBuild.Community.Tasks.dll
+D:\koodit\msbuildtasks\Source\MSBuild.Community.Tasks\bin\Debug\net8.0\MSBuild.Community.Tasks.pdb
+D:\koodit\msbuildtasks\Source\MSBuild.Community.Tasks\bin\Debug\net8.0\MSBuild.Community.Tasks.xml
+D:\koodit\msbuildtasks\Source\MSBuild.Community.Tasks\obj\Debug\net8.0\MSBuild.Community.Tasks.dll
+D:\koodit\msbuildtasks\Source\MSBuild.Community.Tasks\obj\Debug\net8.0\refint\MSBuild.Community.Tasks.dll
+D:\koodit\msbuildtasks\Source\MSBuild.Community.Tasks\obj\Debug\net8.0\MSBuild.Community.Tasks.pdb
+D:\koodit\msbuildtasks\Source\MSBuild.Community.Tasks\obj\Debug\net8.0\ref\MSBuild.Community.Tasks.dll

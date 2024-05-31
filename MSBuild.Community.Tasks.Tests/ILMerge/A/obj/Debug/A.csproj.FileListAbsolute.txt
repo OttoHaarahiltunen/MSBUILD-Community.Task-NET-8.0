@@ -1,0 +1,7 @@
+D:\koodit\msbuildtasks\Source\MSBuild.Community.Tasks.Tests\ILMerge\A\bin\Debug\A.XML
+D:\koodit\msbuildtasks\Source\MSBuild.Community.Tasks.Tests\ILMerge\A\bin\Debug\A.dll
+D:\koodit\msbuildtasks\Source\MSBuild.Community.Tasks.Tests\ILMerge\A\bin\Debug\A.pdb
+D:\koodit\msbuildtasks\Source\MSBuild.Community.Tasks.Tests\ILMerge\A\obj\Debug\A.csproj.AssemblyReference.cache
+D:\koodit\msbuildtasks\Source\MSBuild.Community.Tasks.Tests\ILMerge\A\obj\Debug\A.csproj.CoreCompileInputs.cache
+D:\koodit\msbuildtasks\Source\MSBuild.Community.Tasks.Tests\ILMerge\A\obj\Debug\A.dll
+D:\koodit\msbuildtasks\Source\MSBuild.Community.Tasks.Tests\ILMerge\A\obj\Debug\A.pdb
